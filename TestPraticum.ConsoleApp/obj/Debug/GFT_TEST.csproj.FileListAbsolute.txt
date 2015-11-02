@@ -1,0 +1,6 @@
+C:\Desenvolvimento\Teste_GFT\GFT_TEST\GFT_TEST\bin\Debug\GFT_TEST.exe.config
+C:\Desenvolvimento\Teste_GFT\GFT_TEST\GFT_TEST\bin\Debug\GFT_TEST.exe
+C:\Desenvolvimento\Teste_GFT\GFT_TEST\GFT_TEST\bin\Debug\GFT_TEST.pdb
+C:\Desenvolvimento\Teste_GFT\GFT_TEST\GFT_TEST\obj\Debug\GFT_TEST.csprojResolveAssemblyReference.cache
+C:\Desenvolvimento\Teste_GFT\GFT_TEST\GFT_TEST\obj\Debug\GFT_TEST.exe
+C:\Desenvolvimento\Teste_GFT\GFT_TEST\GFT_TEST\obj\Debug\GFT_TEST.pdb
